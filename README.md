@@ -1,1 +1,0 @@
-# westteam.github.io
