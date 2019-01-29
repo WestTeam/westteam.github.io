@@ -1,59 +1,64 @@
-# Dependencies
-markdown:	kramdown
-# Permalinks
-permalink:	/blog/:title
+# Site wide configuration
 
-# Setup
-title:            Westbot Robotic
-tagline:          'blog'
-description:      ''
-url:              https://github.com/WestTeam
-baseurl:
-commentsystem:    google
-disqus:           example
+title: "My Site"
+description: "This is a description of my awesome site."
+logo: # 120x120 px default image used for Twitter summary card
+teaser: # 400x250 px default teaser image used in image archive grid
+locale: en
+url:
+feed:
+  path: atom.xml
 
-author:
-  name:           Jeremy Savonet
-  url:            https://github.com/JeremySavonet
+# Jekyll configuration
 
-paginate:         5
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
 
-# Custom vars
-icon:             /assets/images/icon.png
-cover:            /assets/images/cover.jpg
 
-social:
-  - icon:         github
-    url:          https://github.com/WestTeam
-    desc:         Fork me on github
+# Site owner
+owner:
+  name:
+  email:
+  twitter:
+  google:
+    ad-client:
+    ad-slot:
+  bio:
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+  disqus-shortname:
 
-  - icon:         feed
-    url:          http://camporez.github.io/atom.xml
-    desc:         Subscribe to my feed
 
-menu:
-  - title:        Blog
-    url:          /
-
-  - title:        About us
-    url:          /about
-
-  - title:        Sponsors
-    url:          /sponsors
-
-  - title:        Contact
-    url:          /contact
-
-copyright:
-  author:         WestBot
-  url:            https://github.com/WestTeam
-  type_title:     All Rights Reserved WestBot
-  type_url:       http://creativecommons.org/licenses/by-nc/2.5
-
-parallax:         false
-
-# Google Analytics (add the UA Code, e.g.: UA-xxxxxxxx-1)
-google_analytics:
-
-# Default Theme Color for Chrome on Android Lollipop (Use RGB ColorCode without `#`, e.g.: `db5945`)
-theme_color:       7E9576
+include:
+  - .htaccess
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp
