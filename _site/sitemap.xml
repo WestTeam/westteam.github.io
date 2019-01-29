@@ -1,94 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>//mmistakes.github.io/skinny-bones-jekyll/articles/syntax-highlighting-test/</loc>
-    <lastmod>2014-11-30T04:08:14+01:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//mmistakes.github.io/skinny-bones-jekyll/articles/author-override/</loc>
+    <loc>//westteam.github.io/articles/author-override/</loc>
     <lastmod>2014-06-23T22:19:16+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//mmistakes.github.io/skinny-bones-jekyll/articles/video-post-test/</loc>
+    <loc>//westteam.github.io/articles/video-post-test/</loc>
     <lastmod>2014-06-01T05:14:02+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//mmistakes.github.io/skinny-bones-jekyll/articles/image-grids/</loc>
+    <loc>//westteam.github.io/articles/image-grids/</loc>
     <lastmod>2014-05-30T17:51:25+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//mmistakes.github.io/skinny-bones-jekyll/media/another-sample-media-page/</loc>
+    <loc>//westteam.github.io/media/another-sample-media-page/</loc>
     <lastmod>2014-05-10T00:00:00+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//mmistakes.github.io/skinny-bones-jekyll/articles/welcome-to-jekyll/</loc>
+    <loc>//westteam.github.io/articles/welcome-to-jekyll/</loc>
     <lastmod>2014-02-17T00:00:00+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//mmistakes.github.io/skinny-bones-jekyll/media/sample-media-page/</loc>
+    <loc>//westteam.github.io/media/sample-media-page/</loc>
     <lastmod>2014-02-03T00:00:00+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//mmistakes.github.io/skinny-bones-jekyll/articles/readability-feature-post/</loc>
+    <loc>//westteam.github.io/articles/readability-feature-post/</loc>
     <lastmod>2013-05-23T00:00:00+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//mmistakes.github.io/skinny-bones-jekyll/articles/sample-post-images/</loc>
+    <loc>//westteam.github.io/articles/sample-post-images/</loc>
     <lastmod>2013-05-22T00:00:00+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//mmistakes.github.io/skinny-bones-jekyll/articles/readability-post/</loc>
+    <loc>//westteam.github.io/articles/readability-post/</loc>
     <lastmod>2012-05-22T00:00:00+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//mmistakes.github.io/skinny-bones-jekyll/articles/sample-post/</loc>
+    <loc>//westteam.github.io/articles/sample-post/</loc>
     <lastmod>2011-03-10T00:00:00+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//mmistakes.github.io/skinny-bones-jekyll/articles/</loc>
-    <lastmod>2019-01-29T20:56:31+01:00</lastmod>
+    <loc>//westteam.github.io/articles/</loc>
+    <lastmod>2019-01-29T22:01:58+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>//mmistakes.github.io/skinny-bones-jekyll/terms/</loc>
-    <lastmod>2019-01-29T20:56:31+01:00</lastmod>
+    <loc>//westteam.github.io/terms/</loc>
+    <lastmod>2019-01-29T22:01:58+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>//mmistakes.github.io/skinny-bones-jekyll/about/</loc>
-    <lastmod>2019-01-29T20:56:31+01:00</lastmod>
+    <loc>//westteam.github.io/about/</loc>
+    <lastmod>2019-01-29T22:01:58+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>//mmistakes.github.io/skinny-bones-jekyll/</loc>
-    <lastmod>2019-01-29T20:56:31+01:00</lastmod>
+    <loc>//westteam.github.io/blog/</loc>
+    <lastmod>2019-01-29T22:01:58+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>//westteam.github.io/sponsors/</loc>
+    <lastmod>2019-01-29T22:01:58+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>//westteam.github.io/getting-started/</loc>
+    <lastmod>2019-01-29T22:01:58+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>//westteam.github.io/robots/</loc>
+    <lastmod>2019-01-29T22:01:58+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>//westteam.github.io/media/</loc>
+    <lastmod>2019-01-29T22:01:58+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>//westteam.github.io/</loc>
+    <lastmod>2019-01-29T22:01:58+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>//mmistakes.github.io/skinny-bones-jekyll/media/</loc>
-    <lastmod>2019-01-29T20:56:31+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>//mmistakes.github.io/skinny-bones-jekyll/getting-started/</loc>
-    <lastmod>2019-01-29T20:56:31+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>

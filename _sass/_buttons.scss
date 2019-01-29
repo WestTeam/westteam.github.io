@@ -33,11 +33,11 @@
 
 .btn-inverse {
 	@extend .btn;
-	background-color: $white;
-	color: $text-color;
+	background-color: $text-color;;
+	color: $white;
 	&:visited,
 	&:active {
-		color: $text-color;
+		color: $white;
 	}
 	&:hover {
 		color: $white;
