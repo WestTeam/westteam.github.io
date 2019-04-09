@@ -9,7 +9,7 @@ image:
 </div><!-- /.tiles -->
 
 <div class="tile">
-  <h1 class="post-title">Coupe de France 2019</h2>
+  <h1 class="post-title">Coupe de France 2019</h1>
   <p>This year's goal is to make robots collect and discover atoms. Your mission, should you accept it, will consist of:
 
 Collecting atoms and sorting them by weight.
@@ -21,7 +21,7 @@ More details about the new contest in the rules.</p>
 
 
 <div class="tile">
-  <h1 class="post-title">Coupe de France 2018</h2>
+  <h1 class="post-title">Coupe de France 2018</h1>
   <p>This year's goal is to make robots collect and discover atoms. Your mission, should you accept it, will consist of:
 
 Collecting atoms and sorting them by weight.
