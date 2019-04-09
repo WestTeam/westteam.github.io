@@ -6,6 +6,7 @@ image:
 ---
 
 <div class="tiles">
+</div><!-- /.tiles -->
 
 <div class="tile">
   <h2 class="post-title">Coupe de France 2019</h2>
@@ -23,4 +24,3 @@ More details about the new contest in the rules.</p>
   <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
 </div><!-- /.tile -->
 
-</div><!-- /.tiles -->
